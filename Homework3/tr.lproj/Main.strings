@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "Nothing happened."; ObjectID = "2wj-nA-bjB"; */
+"2wj-nA-bjB.text" = "Hiçbir şey olmadı.";
+
+/* Class = "UIButton"; configuration.title = "Status"; ObjectID = "53N-kW-pZR"; */
+"53N-kW-pZR.configuration.title" = "Durum";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "53N-kW-pZR"; */
+"53N-kW-pZR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sanji"; ObjectID = "7z1-uh-Ros"; */
+"7z1-uh-Ros.text" = "Sanji";
+
+/* Class = "UILabel"; text = "This is mine now!"; ObjectID = "BBd-od-3GN"; */
+"BBd-od-3GN.text" = "Bu artık benim!";
+
+/* Class = "UILabel"; text = "Nico Robin"; ObjectID = "BEA-iX-zWE"; */
+"BEA-iX-zWE.text" = "Nico Robin";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BcR-im-9ca"; */
+"BcR-im-9ca.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "7"; ObjectID = "Bvu-qZ-ynD"; */
+"Bvu-qZ-ynD.configuration.title" = "7";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bvu-qZ-ynD"; */
+"Bvu-qZ-ynD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "DQq-mn-NKL"; */
+"DQq-mn-NKL.text" = "Mesajlar";
+
+/* Class = "UILabel"; text = "Roronoa Zoro"; ObjectID = "EjR-im-T4p"; */
+"EjR-im-T4p.text" = "Roronoa Zoro";
+
+/* Class = "UIButton"; configuration.title = "2"; ObjectID = "EnD-gd-6Te"; */
+"EnD-gd-6Te.configuration.title" = "2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EnD-gd-6Te"; */
+"EnD-gd-6Te.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "03:57 PM"; ObjectID = "FHt-tL-Oco"; */
+"FHt-tL-Oco.text" = "15:57";
+
+/* Class = "UILabel"; text = "05:59 PM"; ObjectID = "HiV-xe-pDm"; */
+"HiV-xe-pDm.text" = "17:59";
+
+/* Class = "UIButton"; configuration.title = "2"; ObjectID = "HzZ-Rd-7KM"; */
+"HzZ-Rd-7KM.configuration.title" = "2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HzZ-Rd-7KM"; */
+"HzZ-Rd-7KM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Are we friends?"; ObjectID = "JFa-nc-XXN"; */
+"JFa-nc-XXN.text" = "Arkadaş mıyız?";
+
+/* Class = "UILabel"; text = "07:41 PM"; ObjectID = "KMj-bL-zr9"; */
+"KMj-bL-zr9.text" = "19:41";
+
+/* Class = "UIButton"; configuration.title = "3"; ObjectID = "MaM-JG-l5Y"; */
+"MaM-JG-l5Y.configuration.title" = "3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MaM-JG-l5Y"; */
+"MaM-JG-l5Y.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "10:29 AM"; ObjectID = "PcP-cV-cHW"; */
+"PcP-cV-cHW.text" = "10:29";
+
+/* Class = "UILabel"; text = "Nami"; ObjectID = "REb-Dh-CK1"; */
+"REb-Dh-CK1.text" = "Nami";
+
+/* Class = "UIButton"; configuration.title = "3"; ObjectID = "T4p-aM-LZi"; */
+"T4p-aM-LZi.configuration.title" = "3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T4p-aM-LZi"; */
+"T4p-aM-LZi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "This looks interesting."; ObjectID = "Znt-zc-zgm"; */
+"Znt-zc-zgm.text" = "Bu ilginç görünüyor.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bPA-Fw-LIl"; */
+"bPA-Fw-LIl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Monkey D. Luffy"; ObjectID = "cUt-0f-KeU"; */
+"cUt-0f-KeU.text" = "Monkey D. Luffy";
+
+/* Class = "UILabel"; text = "09:11 AM"; ObjectID = "fGE-4n-0xw"; */
+"fGE-4n-0xw.text" = "09:11";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fZc-9e-vnM"; */
+"fZc-9e-vnM.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gye-Kd-OME"; */
+"gye-Kd-OME.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Calls"; ObjectID = "ipU-ZL-nau"; */
+"ipU-ZL-nau.configuration.title" = "Aramalar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ipU-ZL-nau"; */
+"ipU-ZL-nau.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "10:20 PM"; ObjectID = "ky9-tS-pzX"; */
+"ky9-tS-pzX.text" = "22:20";
+
+/* Class = "UILabel"; text = "I'll find the All Blue!"; ObjectID = "pBl-ja-QSi"; */
+"pBl-ja-QSi.text" = "All Blue'yu bulacağım!";
+
+/* Class = "UIButton"; configuration.title = "1"; ObjectID = "rNC-qo-YnT"; */
+"rNC-qo-YnT.configuration.title" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rNC-qo-YnT"; */
+"rNC-qo-YnT.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Chats"; ObjectID = "rm6-bR-ygj"; */
+"rm6-bR-ygj.configuration.title" = "Sohbetler";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rm6-bR-ygj"; */
+"rm6-bR-ygj.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tvj-X9-CnM"; */
+"tvj-X9-CnM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "I bet this arm on a new era."; ObjectID = "vdm-x0-xs3"; */
+"vdm-x0-xs3.text" = "Bu kolu yeni bir çağa bahse girerim.";
+
+/* Class = "UILabel"; text = "Shanks"; ObjectID = "xDJ-Y9-Zsg"; */
+"xDJ-Y9-Zsg.text" = "Shanks";
